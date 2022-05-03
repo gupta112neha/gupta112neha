@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gupta112neha
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Mahicne Learning Models
-- 💞️ I’m looking to collaborate on New Skills
+- 👋 Hi, I’m @gupta112neha - Looking for Opportunity in Data Anlystics
+- 👀 I’m interested in Data Scientist(Python,Machine Learning,SQL,VBA,Statistics,PowerBI)
+- 🌱 I’m good in Creation of Mahicne Learning Model(Created Linear Regression,Multivariate Regression,Logistic Regression)
+- 💞️ I’m looking to collaborate on New Skills as which will help me to work as Data Scientist :-)
 - 📫 How to reach me GUPTA112NEHA52@GMAIL.COM
 
 <!---
